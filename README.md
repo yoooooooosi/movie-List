@@ -6,10 +6,10 @@ A simple web application for movie fanatic
 
 ## Features 特色
 
-- listing movies from movie api   從movie api中列出電影
-- searching movies by title   利用電影名稱搜尋
-- add movies to your favorite list   增加電影至收藏清單
-- manage your favorite list   管理您的收藏清單
+- listing movies from movie api     從movie api中列出電影
+- searching movies by title     利用電影名稱搜尋
+- add movies to your favorite list     增加電影至收藏清單
+- manage your favorite list     管理您的收藏清單
 
 ### Searching 搜尋方式
 
