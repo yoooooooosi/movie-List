@@ -26,15 +26,15 @@ type the title of the movies in search bar
 
 ### Favorite List 收藏清單
 
-In index page, press the `+` button on the movie to keep it into favorite list.
+*In index page, press the `+` button on the movie to keep it into favorite list.
 
 在首頁中，在特定電影按下 `+`的按鈕，可以使其加入智收藏清單中
 
-You can checkout the favorite list in `favorite.html`
+*You can checkout the favorite list in `favorite.html`
 
 您也可至`favorite.html`收藏清單中查看
 
-press `x` to remove it from favorite list
+*press `x` to remove it from favorite list
 
 按下`x` 的按鈕可以將其電影從收藏清單中移除
 
